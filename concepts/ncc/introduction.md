@@ -30,7 +30,7 @@ Running older versions of applications on more modern versions of Ubuntu
 Building new packages, allowing careful control over the dependency packages which are installed.     
        
 # Namespaces
-Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources. 
+Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources.      
 For example 
 If the house is the host then the namespace is a room which is given to your child. It is providing privacy to each child. Each child has to see their own room and not see the other's room.only parents have visibility to see all the room and other areas inside the house. If you wish to establish connectivity between two rooms inside the house. 
 
