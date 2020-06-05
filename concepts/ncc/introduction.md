@@ -38,4 +38,16 @@ When create container it’s isolated and create room inside room is called name
   
  # Cgroup 
 Control Groups (cgroups), which provide a mechanism for easily managing and monitoring system resources, by partitioning things like cpu time, system memory, disk and network bandwidth, into groups, then assigning tasks to those groups.
+    
+# Discretionary Access Control (DAC)
+Discretionary Access Control (DAC) which enforces security by ownership. If a user owns a file, he is allowed to set the read, write, and execute permissions for that file. In this model, users control the data at their discretion. The owner of the system does not have total control over the system; the users do.  
+
+# Mandatory Access Controls (MAC)   
+ MAC model, access is controlled strictly by the administrator. The administrator sets all permissions. Users cannot set their own permissions, even if they own the object. Because of this, MAC systems are considered very secure. This is because of the centralized administration.  
+ 
+ #  service oriented architectures(SOA)
+  service oriented architectures  A service-oriented architecture is essentially a collection of services. These services communicate with each other. The communication can involve either simple data passing or it could involve two or more services coordinating some activity. Some means of connecting services to each other is needed.  
+  
+ # Platform as a service (PaaS)
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, 
 
